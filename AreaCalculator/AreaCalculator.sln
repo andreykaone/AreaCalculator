@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalculator.UI", "AreaCalculator.UI\AreaCalculator.UI.csproj", "{8E65960B-7006-41E3-AA50-05AA1A17FE63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalculator", "AreaCalculator\AreaCalculator.csproj", "{B1440BE6-3EC7-4056-BA70-6AC2B34726A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCalculator.Tests", "AreaCalculator.Tests\AreaCalculator.Tests.csproj", "{AA5BCA8C-1AF8-4DB3-A193-746D34DB9E07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E65960B-7006-41E3-AA50-05AA1A17FE63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E65960B-7006-41E3-AA50-05AA1A17FE63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E65960B-7006-41E3-AA50-05AA1A17FE63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E65960B-7006-41E3-AA50-05AA1A17FE63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1440BE6-3EC7-4056-BA70-6AC2B34726A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1440BE6-3EC7-4056-BA70-6AC2B34726A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1440BE6-3EC7-4056-BA70-6AC2B34726A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1440BE6-3EC7-4056-BA70-6AC2B34726A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA5BCA8C-1AF8-4DB3-A193-746D34DB9E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA5BCA8C-1AF8-4DB3-A193-746D34DB9E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA5BCA8C-1AF8-4DB3-A193-746D34DB9E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA5BCA8C-1AF8-4DB3-A193-746D34DB9E07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A3C8BAF-D8C7-4421-A5BD-63D2D2194E3B}
+	EndGlobalSection
+EndGlobal
