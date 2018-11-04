@@ -21,7 +21,6 @@ namespace AreaCalculator.UI
             var shapes = new List<Shape>
             {
                 new Triangle(3, 4, 5),
-
                 new Circle(2),
                 new Square(5)
             };
